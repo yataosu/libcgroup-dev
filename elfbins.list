@@ -1,0 +1,14 @@
+.//usr/lib64/libcgroup.so.1.0.41
+.//usr/lib64/security/pam_cgroup.so
+.//usr/sbin/cgrulesengd
+.//usr/sbin/cgconfigparser
+.//usr/sbin/cgclear
+.//usr/bin/cgexec
+.//usr/bin/cgclassify
+.//usr/bin/cgcreate
+.//usr/bin/cgset
+.//usr/bin/cgget
+.//usr/bin/cgdelete
+.//usr/bin/lssubsys
+.//usr/bin/lscgroup
+.//usr/bin/cgsnapshot

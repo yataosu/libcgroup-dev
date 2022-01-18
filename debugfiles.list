@@ -1,0 +1,70 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/lib64
+%dir /usr/lib/debug/usr/lib64/security
+%dir /usr/lib/debug/usr/sbin
+%dir /usr/lib/debug/usr/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/0f
+%dir /usr/lib/debug/.build-id/ad
+%dir /usr/lib/debug/.build-id/bc
+%dir /usr/lib/debug/.build-id/02
+%dir /usr/lib/debug/.build-id/a9
+%dir /usr/lib/debug/.build-id/91
+%dir /usr/lib/debug/.build-id/9c
+%dir /usr/lib/debug/.build-id/b1
+%dir /usr/lib/debug/.build-id/5c
+%dir /usr/lib/debug/.build-id/26
+%dir /usr/lib/debug/.build-id/79
+%dir /usr/lib/debug/.build-id/fa
+%dir /usr/lib/debug/.build-id/a7
+%dir /usr/lib/debug/.build-id/ce
+%dir /usr/lib/debug/.build-id/19
+%dir /usr/lib/debug/.dwz
+/usr/lib/debug/usr/lib64/libcgroup.so.1.0.41.debug
+/usr/lib/debug/usr/lib64/security/pam_cgroup.so.debug
+/usr/lib/debug/usr/lib64/libcgroup.so.1.debug
+/usr/lib/debug/usr/lib64/libcgroup.so.debug
+/usr/lib/debug/usr/sbin/cgrulesengd.debug
+/usr/lib/debug/usr/sbin/cgconfigparser.debug
+/usr/lib/debug/usr/sbin/cgclear.debug
+/usr/lib/debug/usr/bin/cgexec.debug
+/usr/lib/debug/usr/bin/cgclassify.debug
+/usr/lib/debug/usr/bin/cgcreate.debug
+/usr/lib/debug/usr/bin/cgset.debug
+/usr/lib/debug/usr/bin/cgget.debug
+/usr/lib/debug/usr/bin/cgdelete.debug
+/usr/lib/debug/usr/bin/lssubsys.debug
+/usr/lib/debug/usr/bin/lscgroup.debug
+/usr/lib/debug/usr/bin/cgsnapshot.debug
+/usr/lib/debug/.build-id/0f/860973e53858c33e087059687b1e7661c3d368
+/usr/lib/debug/.build-id/0f/860973e53858c33e087059687b1e7661c3d368.debug
+/usr/lib/debug/.build-id/ad/201d119a494a9c56fde64213f5136e5b4e0ee6
+/usr/lib/debug/.build-id/ad/201d119a494a9c56fde64213f5136e5b4e0ee6.debug
+/usr/lib/debug/.build-id/bc/dfedadb7e29a96bbe8349b2cd73d804b578db6
+/usr/lib/debug/.build-id/bc/dfedadb7e29a96bbe8349b2cd73d804b578db6.debug
+/usr/lib/debug/.build-id/02/d1e56c2129d75e90440a2caa37d049a5a960aa
+/usr/lib/debug/.build-id/02/d1e56c2129d75e90440a2caa37d049a5a960aa.debug
+/usr/lib/debug/.build-id/a9/fd9f8e94dce393af7e9dbc76bcf8fc404bbafe
+/usr/lib/debug/.build-id/a9/fd9f8e94dce393af7e9dbc76bcf8fc404bbafe.debug
+/usr/lib/debug/.build-id/91/2fc72f43d248b3b1bc82824f64f7524a08e8aa
+/usr/lib/debug/.build-id/91/2fc72f43d248b3b1bc82824f64f7524a08e8aa.debug
+/usr/lib/debug/.build-id/9c/00cb1ff9e0c4ea8f78ba549d6b3ebb21acd3a5
+/usr/lib/debug/.build-id/9c/00cb1ff9e0c4ea8f78ba549d6b3ebb21acd3a5.debug
+/usr/lib/debug/.build-id/b1/99f10fd3829c4ab12bf1c6487ff9c86b04f649
+/usr/lib/debug/.build-id/b1/99f10fd3829c4ab12bf1c6487ff9c86b04f649.debug
+/usr/lib/debug/.build-id/5c/556f5e87126254839e0b6d6de224568dbcbde4
+/usr/lib/debug/.build-id/5c/556f5e87126254839e0b6d6de224568dbcbde4.debug
+/usr/lib/debug/.build-id/26/c891d444130f10a8ecae0e3e7a5a90cdab4916
+/usr/lib/debug/.build-id/26/c891d444130f10a8ecae0e3e7a5a90cdab4916.debug
+/usr/lib/debug/.build-id/79/9de008c74a4963b90c3bf46634784eb443900d
+/usr/lib/debug/.build-id/79/9de008c74a4963b90c3bf46634784eb443900d.debug
+/usr/lib/debug/.build-id/fa/a2e84229b1f10214fd1ed26ed8a6c62c5af4b4
+/usr/lib/debug/.build-id/fa/a2e84229b1f10214fd1ed26ed8a6c62c5af4b4.debug
+/usr/lib/debug/.build-id/a7/f26b4a86e1e5ff3780990ea8e47d8a530015cd
+/usr/lib/debug/.build-id/a7/f26b4a86e1e5ff3780990ea8e47d8a530015cd.debug
+/usr/lib/debug/.build-id/ce/c76c3cc543385d338c76e49f2fb22735affd07
+/usr/lib/debug/.build-id/ce/c76c3cc543385d338c76e49f2fb22735affd07.debug
+/usr/lib/debug/.build-id/19/9d5f80057e2735250144aab300d4121ed98f21.debug
+/usr/lib/debug/.dwz/libcgroup-0.41-21.el7.smartx.2.x86_64
+/usr/src/debug/libcgroup-0.41
